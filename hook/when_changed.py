@@ -1,5 +1,8 @@
+import run_train
+
+
 def changed():
-    print("There's some change in data folder")
+    run_train.run()
 
 
 if __name__ == "__main__":
