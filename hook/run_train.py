@@ -8,6 +8,7 @@ from keras import layers
 import os
 import pickle
 
+
 def run():
     data_root = '/content/100_1'
     fname = '/content/100_1/0/img_11090.jpg'
